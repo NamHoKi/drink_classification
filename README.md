@@ -1,4 +1,4 @@
-# Drink classification 3day project (in microsoft ai school toy project)
+# Drink classification toy project (in microsoft ai school toy project)
 
 ## 목차
 1. 데이터 소개
